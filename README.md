@@ -110,4 +110,4 @@ git push origin main
 
 ## Questions?
 
-If you run into issues cloning, forking, or opening the project, reach out to your instructor or post in the course discussion board.
+If you run into issues cloning, forking, or opening the project, reach out to your instructor.
