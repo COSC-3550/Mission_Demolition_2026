@@ -73,7 +73,7 @@ You now have a copy at `https://github.com/YOUR_GITHUB_USERNAME/Mission_Demoliti
 #### Command Line
 
 ```bash
-git clone https://github.com/COSC-3550/Mission_Demolition_2026
+git clone https://github.com/YOUR_GITHUB_USERNAME/Mission_Demolition_2026
 cd Mission_Demolition_2026
 ```
 
